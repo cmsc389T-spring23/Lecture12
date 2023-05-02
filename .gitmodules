@@ -1,0 +1,3 @@
+[submodule "Lecture12.wiki"]
+	path = Lecture12.wiki
+	url = git@github.com:cmsc389T-spring23/Lecture12.wiki.git
