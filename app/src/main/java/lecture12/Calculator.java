@@ -31,7 +31,7 @@ public class Calculator {
 		 * as a replacement for the divisor when the divisor is 0.
 		 * @param a dividend
 		 * @param b divisor
-		 * @param e 
+		 * @param e epsilon 
 		 * @return the quotient of a and b
 		 */
 		public float divide(float a, float b, float e) {
